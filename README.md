@@ -4,18 +4,18 @@ This is a simple Laravel-based API for managing notes. It provides endpoints to 
 
 ## Requirements
 
-- PHP = 8.0
+- PHP
 - Composer
-- Laravel >= 8.x
-- MySQL or any other database supported by Laravel
+- Laravel
+- MySQL
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/notes-api.git
-    cd notes-api
+    git clone https://github.com/RanaGulraiz045/notes-laravel-task.git
+    cd notes-laravel-task
     ```
 
 2. **Install dependencies:**
