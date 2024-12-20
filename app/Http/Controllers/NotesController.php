@@ -55,6 +55,7 @@ class NotesController extends Controller
                 'status' => false,
                 'message' => $validate->errors()->all()[0]
             ],400);
+            
         }
 
         $note = Note::where('id', $id)->first();
